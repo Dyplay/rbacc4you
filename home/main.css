@@ -1,0 +1,123 @@
+html,body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background: greenyellow;
+    height: 100%;
+}
+
+#logo-header {
+    width: 1.5cm;
+    position: relative;
+    left: 2.5cm;
+    top: 20px;
+}
+
+#new-label {
+    border-color: red;
+    border-style: red;
+    background: red;
+    color: white;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    width: 2.1cm;
+    position: relative;
+    left: 0.7cm;
+    bottom: 24px;
+}
+/*user 1*/
+#box-1-sell {
+   justify-content: center;
+    margin: 0;
+    position: relative;
+    text-align: center;
+    border-color: white;
+    border-style: solid;
+    width: 8cm;
+    height: 12cm;
+    border-radius: 10px;
+    background: #ffff;
+}
+
+#user-icon-avatar-212352353235 {
+   background-image: url(https://tr.rbxcdn.com/70681cb82e681182616044f2c5fe4eac/150/150/AvatarHeadshot/Png);
+   background-size: cover;
+   width: 3.5cm;
+   height: 3.5cm;
+   border-color: gray;
+   border-style: solid;
+   border-radius: 100px;
+   position: relative;
+   left: 2.2cm;
+}
+
+#button-1-avatar{
+    border-color: #51a800;
+    background: #51a800;
+    border-style: solid;
+    border-radius: 10px;
+    position: relative;
+    width: 3cm;
+    height: 1cm;
+}
+
+#button-1-avatar:hover {
+    border-color: #336801;
+    background: #336801;
+}
+
+#avatar-1box-sell {
+    display: none;
+    border-color: gray;
+    border-style: solid;
+    background: gray;
+    position: relative;
+    top: 15px;
+    width: 8cm;
+    border-radius: 10px;
+    right: 3px;
+}
+
+#avatar-title-1 {
+    text-align: center;
+    position: relative;
+    left: -0.3cm;
+    color: white;
+    bottom: 8.7cm;
+    top: 0.2cm;
+}
+
+#img-avatar-preview-1{
+   position: relative;
+   right: 25px;
+}
+
+#exit-avatar {
+    color: red;
+    background-color: transparent;
+    border-color: transparent;
+    position: relative;
+    left: 4.4cm;
+    bottom: -0.1cm;
+    font-size: large;
+}
+
+#exit-avatar:hover {
+    color: rgba(201, 0, 0, 0.705);
+}
+
+
+
+@media (max-width: 770px) {
+    
+}
+
+#robux-zeichen-img-2222 {
+    width: 0.6cm;
+    position: relative;
+    top: 0.2cm;
+}
+
+#pos-text-rb-button {
+    position: relative;
+    bottom: 17px;
+}

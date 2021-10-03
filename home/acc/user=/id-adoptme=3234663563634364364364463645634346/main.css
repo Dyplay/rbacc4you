@@ -1,0 +1,60 @@
+html,body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    background: greenyellow;
+    height: 100%;
+}
+
+#logo-header {
+    width: 1.5cm;
+    position: relative;
+    left: 2.5cm;
+    top: 20px;
+}
+
+#roblox-pf-acc-1-adopt-em-2432532325523 {
+    background-image: url(https://tr.rbxcdn.com/70681cb82e681182616044f2c5fe4eac/150/150/AvatarHeadshot/Png);
+    background-size: cover;
+    width: 3.5cm;
+    height: 3.5cm;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 100px;
+    position: relative;
+    background-color: #ffff;
+}
+
+#hr-3245325235435453235 {
+    color: gray;
+    width: 15cm;
+    border-color: rgba(128, 128, 128, 0.829);
+}
+
+#next-button {
+    border-color: lightskyblue;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: lightskyblue;
+    width: 4cm;
+    height: 1cm;
+    font-size: large;
+    color: white;
+}
+
+#next-button:hover {
+   border-color: rgb(55, 178, 255);
+   background-color: rgb(55, 178, 255);
+}
+
+#pets-preview-rucksack {
+    position: relative;
+    width: 20cm;
+}
+
+@media (max-width: 900px) {
+    #pets-preview-rucksack {
+        position: relative;
+        width: 16cm;
+        right: 2cm;
+    }
+}
